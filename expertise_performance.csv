@@ -1,0 +1,13 @@
+Expertise,Avg_Teacher_Rating,Median_Teacher_Rating,Std_Teacher_Rating,Num_Instructors,Total_Enrollments,Avg_Course_Rating
+Marketing,4.29,4.29,,1,120,3.647
+Machine Learning,4.234,4.36,0.557,5,3303,2.775
+Programming,3.95,3.95,,1,123,2.98
+Cybersecurity,3.469,3.53,0.746,9,3450,3.038
+Finance,3.265,3.145,0.601,6,410,3.166
+Artificial Intelligence,3.173,3.325,0.914,6,389,3.155
+Digital Marketing,3.05,3.23,0.837,11,479,3.547
+Data Science,3.03,3.07,0.54,5,432,3.283
+Project Management,2.664,2.45,1.213,5,368,3.083
+Web Development,2.514,2.79,0.976,5,344,2.945
+Design,2.29,1.78,1.171,4,324,3.16
+Business,2.245,2.245,1.676,2,258,2.804

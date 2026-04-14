@@ -1,0 +1,13 @@
+CourseCategory,Avg_Rating,Median_Rating,Std_Rating,Num_Courses,Total_Enrollments
+Marketing,3.686,4.11,1.075,806,806
+Digital Marketing,3.683,3.89,0.935,808,808
+Data Science,3.335,3.6,0.441,916,916
+Design,3.179,2.72,1.149,827,827
+Project Management,3.123,3.45,1.539,829,829
+Artificial Intelligence,3.122,3.11,1.074,829,829
+Programming,3.054,2.88,1.201,806,806
+Finance,3.044,2.75,0.995,864,864
+Cybersecurity,2.975,2.38,1.345,819,819
+Web Development,2.88,2.67,1.171,844,844
+Machine Learning,2.712,1.81,1.404,819,819
+Business,2.694,2.69,0.66,833,833
